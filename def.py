@@ -1,4 +1,5 @@
 def add(a,b):
-    print(a+b)
+    return a*b
 
-add(10,5)
+sum=add(22,8)
+print(sum)
